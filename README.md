@@ -8,7 +8,11 @@ program, with the same ribbon and window layout.
 
 ## Download
 
-Get the newest version from the **[Releases](../../releases/latest)** page:
+**[⬇ Download the installer (GinkgoCut-0.2.3-setup.exe)](https://github.com/taigacustoms/GinkgoCut-releases/releases/download/v0.2.3/GinkgoCut-0.2.3-setup.exe)**
+
+**[📄 User guide (PDF)](https://github.com/taigacustoms/GinkgoCut-releases/releases/download/v0.2.3/GinkgoCut-User-Guide.pdf)**
+
+Newer versions are on the **[Releases](../../releases/latest)** page:
 
 - `GinkgoCut-<version>-setup.exe`: the installer. It installs for your
   Windows user (no administrator rights needed), adds a Start menu entry and
