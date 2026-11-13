@@ -10,9 +10,9 @@ program, with the same ribbon and window layout.
 
 ## Download
 
-**[⬇ Download the installer (GinkgoCut-0.2.3-setup.exe)](https://github.com/taigacustoms/GinkgoCut-releases/releases/download/v0.2.3/GinkgoCut-0.2.3-setup.exe)**
+**[⬇ Download the installer (GinkgoCut-0.2.4-setup.exe)](https://github.com/taigacustoms/GinkgoCut-releases/releases/download/v0.2.4/GinkgoCut-0.2.4-setup.exe)**
 
-**[📄 User guide (PDF)](https://github.com/taigacustoms/GinkgoCut-releases/releases/download/v0.2.3/GinkgoCut-User-Guide.pdf)**
+**[📄 User guide (PDF)](https://github.com/taigacustoms/GinkgoCut-releases/releases/download/v0.2.4/GinkgoCut-User-Guide.pdf)**
 
 Newer versions are on the **[Releases](../../releases/latest)** page:
 
